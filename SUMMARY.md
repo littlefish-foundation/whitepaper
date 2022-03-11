@@ -23,3 +23,4 @@
 * [Tokenomics](the-details/tokenomics/README.md)
   * [Initial Distribution](the-details/tokenomics/initial-distribution.md)
   * [Token Engineering](the-details/tokenomics/token-engineering.md)
+* [F.A.Q](the-details/f.a.q.md)
