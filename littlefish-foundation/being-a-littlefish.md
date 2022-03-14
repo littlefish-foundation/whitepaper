@@ -1,6 +1,6 @@
 # Being a Littlefish
 
-## Who is a Littlefish?
+## Who are Littlefishes?
 
 
 
