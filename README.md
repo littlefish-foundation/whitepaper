@@ -1,2 +1,8 @@
-# Page 1
+---
+description: '======= Placeholder Welcome Message ======'
+coverY: 0
+---
 
+# Welcome Littlefish!
+
+##
