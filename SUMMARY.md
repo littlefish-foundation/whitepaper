@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Littlefish Foundation Documentation Space](README.md)
+* [Littlefish Foundation](README.md)
 
 ## Littlefish Foundation
 
-* [The Problem](littlefish-foundation/the-problem.md)
-* [The Solution](littlefish-foundation/the-solution.md)
-* [Being a Littlefish](littlefish-foundation/being-a-littlefish.md)
+* [The Problem](littlefish-foundation-1/the-problem.md)
+* [The Solution](littlefish-foundation-1/the-solution.md)
+* [Being a Littlefish](littlefish-foundation-1/being-a-littlefish.md)
 
 ## The Details
 
