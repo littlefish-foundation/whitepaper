@@ -1,5 +1,8 @@
 ---
-description: '======= Placeholder Welcome Message ======'
+description: >-
+  Foundation: an organization that has been created in order to provide money
+  for a particular group of people in need of help or for a particular type of
+  study
 coverY: 0
 ---
 
