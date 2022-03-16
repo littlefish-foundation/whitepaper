@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome Littlefish!](README.md)
+* [Littlefish Foundation Documentation Space](README.md)
 
 ## Littlefish Foundation
 

@@ -3,6 +3,8 @@ description: '======= Placeholder Welcome Message ======'
 coverY: 0
 ---
 
-# Welcome Littlefish!
+# Littlefish Foundation Documentation Space
 
-##
+We live in an era where it is easier to meet knowledgeable and passionate people interested in the same things as us online rather than in real life. Littlefish Foundation was founded under these circumstances and technical infrastructure, by the gathering of like minded and like hearted individuals around the fire of Catalyst. We found out quickly that finding people and starting online communities with shared values, common goals was so simple. The problem is coordination.
+
+Almost as quickly as a global decentralized community gathers, it struggles with the tools available. Discord, Telegram, Miro, Drive and the entire suite of existing, popular tools play their roles. Yet there are no tools that solve the common problems of decentralized communities. Littlefish Platform focuses on these problems, removing friction and making decentralized collaboration more accessible to everyone.
