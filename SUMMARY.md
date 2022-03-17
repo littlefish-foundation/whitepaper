@@ -4,7 +4,7 @@
 
 ## Littlefish Foundation
 
-* [The Solution](littlefish-foundation-1/the-solution.md)
+* [Concept](littlefish-foundation-1/concept.md)
 * [Being a Littlefish](littlefish-foundation-1/being-a-littlefish.md)
 
 ## The Details
