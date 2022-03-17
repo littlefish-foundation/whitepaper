@@ -35,7 +35,7 @@ Almost as quickly as a global decentralized community gathers, it struggles with
 {% endtab %}
 
 {% tab title="Twitter" %}
-****[**https://twitter.com/LittleFishDAO**](https://twitter.com/LittleFishDAO)****[**https://discord.gg/tBKZd5AGUS**](https://discord.gg/tBKZd5AGUS)****[**https://discord.gg/tBKZd5AGUS**](https://discord.gg/tBKZd5AGUS)****[**https://discord.gg/tBKZd5AGUS**](https://discord.gg/tBKZd5AGUS)****[**https://discord.gg/tBKZd5AGUS**](https://discord.gg/tBKZd5AGUS)****[**https://discord.gg/tBKZd5AGUS**](https://discord.gg/tBKZd5AGUS)**s**
+[https://twitter.com/LittleFishDAO](https://twitter.com/LittleFishDAO)[https://discord.gg/tBKZd5AGUS](https://discord.gg/tBKZd5AGUS)
 {% endtab %}
 
 {% tab title="GitHub" %}
