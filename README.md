@@ -1,5 +1,6 @@
 ---
 description: Documentation Space - Home
+cover: .gitbook/assets/litteflish BG.png
 coverY: 0
 ---
 
