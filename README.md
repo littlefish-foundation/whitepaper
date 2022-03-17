@@ -23,4 +23,6 @@ Almost as quickly as a global decentralized community gathers, it struggles with
 
 **Technical**
 
-****
+**Littlefish Foundation** is a dAPP built on Cardano Blockchain making ideas an asset and builds communities around these ideas. Rewards collaboration and adds value to the assets by supporting them with various funding mechanisms.&#x20;
+
+&#x20;**Non technical people can easily create communities (colonies), collect funds and publish actions.**
