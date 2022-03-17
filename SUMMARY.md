@@ -4,7 +4,6 @@
 
 ## Littlefish Foundation
 
-* [The Problem](littlefish-foundation-1/the-problem.md)
 * [The Solution](littlefish-foundation-1/the-solution.md)
 * [Being a Littlefish](littlefish-foundation-1/being-a-littlefish.md)
 
@@ -19,7 +18,8 @@
   * [Staker](the-details/stakeholders/staker.md)
   * [Stake Pool Operator](the-details/stakeholders/stake-pool-operator.md)
 * [The Living Design](the-details/the-living-design.md)
-* [Social Aspects](the-details/social-aspects.md)
+* [Social Aspects](the-details/social-aspects/README.md)
+  * [Guilds](the-details/social-aspects/guilds.md)
 * [Technology](the-details/technology/README.md)
   * [Infrastructure](the-details/technology/infrastructure.md)
   * [Rating System](the-details/technology/rating-system.md)
