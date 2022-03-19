@@ -8,6 +8,10 @@
 
 ### Social
 
+**Website:** [https://littlefish.foundation/](https://littlefish.foundation)
+
+**Presentation:** [https://docs.google.com/presentation/d/1o7AOgAn\_elSLQ2c0-LAs7xzxeYtNw9DihPBHi1mz30Y/edit?usp=sharing](https://docs.google.com/presentation/d/1o7AOgAn\_elSLQ2c0-LAs7xzxeYtNw9DihPBHi1mz30Y/edit?usp=sharing)
+
 **Discord:** [https://discord.gg/tBKZd5AGUS](https://discord.gg/tBKZd5AGUS)
 
 **Twitter:** [https://twitter.com/LittleFishDAO](https://twitter.com/LittleFishDAO)
