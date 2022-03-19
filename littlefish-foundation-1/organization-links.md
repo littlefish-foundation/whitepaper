@@ -15,3 +15,11 @@
 **Telegram:** [https://t.me/littlefish\_foundation](https://t.me/littlefish\_foundation)
 
 **YouTube:** [https://www.youtube.com/channel/UCqST3YotsWuc0faaqsLjdKQ](https://www.youtube.com/channel/UCqST3YotsWuc0faaqsLjdKQ)
+
+
+
+### Cardano Catalyst Proposals
+
+**Littlefish - Coordinating Action:** [https://cardano.ideascale.com/c/idea/404668](https://cardano.ideascale.com/c/idea/404668)
+
+**Littlefish Foundation - Kiva-like DAO:** [https://cardano.ideascale.com/c/idea/384063](https://cardano.ideascale.com/c/idea/384063)
