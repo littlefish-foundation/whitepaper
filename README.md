@@ -20,13 +20,13 @@ Almost as quickly as a global decentralized community gathers, it struggles with
 
 **Non-technical**
 
-**Littlefish Foundation** is the social platform with all the tools needed to build and manage communities, encourage collaboration and reward action. **** By using the funding mechanisms provided by blockchains, littlefish ensures that ideas are transformed into communities and valuable assets are created around these communities.
+**Littlefish Foundation** is the social platform with all the tools needed to build and manage communities, encourage collaboration and reward action. \*\*\*\* By using the funding mechanisms provided by blockchains, littlefish ensures that ideas are transformed into communities and valuable assets are created around these communities.
 
 **Technical**
 
-**Littlefish Foundation** is a dAPP built on Cardano Blockchain making ideas an asset and builds communities around these ideas. Rewards collaboration and adds value to the assets by supporting them with various funding mechanisms.&#x20;
+**Littlefish Foundation** is a dAPP built on Cardano Blockchain making ideas an asset and builds communities around these ideas. Rewards collaboration and adds value to the assets by supporting them with various funding mechanisms.
 
-&#x20;**Non technical people can easily create communities (colonies), collect funds and publish actions.**
+**Non technical people can easily create communities (colonies), collect funds and publish actions.**
 
 ### Join the Movement
 
@@ -36,7 +36,7 @@ Almost as quickly as a global decentralized community gathers, it struggles with
 {% endtab %}
 
 {% tab title="Twitter" %}
-[https://twitter.com/LittleFishDAO](https://twitter.com/LittleFishDAO)[https://discord.gg/tBKZd5AGUS](https://discord.gg/tBKZd5AGUS)
+[https://twitter.com/LittleFishDAO](https://twitter.com/LittleFishDAO)
 {% endtab %}
 
 {% tab title="GitHub" %}
