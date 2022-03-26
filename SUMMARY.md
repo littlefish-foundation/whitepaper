@@ -4,8 +4,8 @@
 
 ## Littlefish Foundation
 
-* [Structure](littlefish-foundation-1/structure/README.md)
-  * [Concept](littlefish-foundation-1/structure/concept.md)
+* [Concept](littlefish-foundation-1/concept.md)
+* [Structure](littlefish-foundation-1/structure.md)
 * [Organization Links](littlefish-foundation-1/organization-links.md)
 * [Being a Littlefish](littlefish-foundation-1/being-a-littlefish.md)
 
