@@ -1,12 +1,16 @@
 # Organization Links
 
-### Development
+## Master Link List
+
+### [https://linktr.ee/littlefish.foundation](https://linktr.ee/littlefish.foundation)
+
+## Development
 
 **Github:** [https://github.com/littlefish-foundation](https://github.com/littlefish-foundation)
 
 **Miro Board:** [https://miro.com/app/board/uXjVOPNZgXQ=/?invite\_link\_id=898830335376](https://miro.com/app/board/uXjVOPNZgXQ=/?invite\_link\_id=898830335376)
 
-### Social
+## Social
 
 **Website:** [https://littlefish.foundation/](https://littlefish.foundation)
 
@@ -22,8 +26,16 @@
 
 
 
-### Cardano Catalyst Proposals
+## Cardano Catalyst Proposals
 
-**Littlefish - Coordinating Action:** [https://cardano.ideascale.com/c/idea/404668](https://cardano.ideascale.com/c/idea/404668)
+### **Fund 8**
 
-**Littlefish Foundation - Kiva-like DAO:** [https://cardano.ideascale.com/c/idea/384063](https://cardano.ideascale.com/c/idea/384063)
+#### **Littlefish - Coordinating Action**
+
+****[https://cardano.ideascale.com/c/idea/404668](https://cardano.ideascale.com/c/idea/404668)
+
+### **Fund 7**&#x20;
+
+#### **Littlefish Foundation - Kiva-like DAO**
+
+&#x20;**** [https://cardano.ideascale.com/c/idea/384063](https://cardano.ideascale.com/c/idea/384063)
