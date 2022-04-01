@@ -43,3 +43,7 @@ Almost as quickly as a global decentralized community gathers, it struggles with
 [https://github.com/littlefish-foundation](https://github.com/littlefish-foundation)
 {% endtab %}
 {% endtabs %}
+
+### Sponsors
+
+[GitBook](https://www.gitbook.com)
